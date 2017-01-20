@@ -1,6 +1,6 @@
 # Hack the Valley 
 
-Created by [mshoe](https://github.com/mshoe), [groovy-tunes](https://github.com/groovy-tunes), and [Wxnchen11](https://github.com/WxnChen11). 
+Created by [WaldoHatesYou](https://github.com/waldohatesyou), [groovy-tunes](https://github.com/groovy-tunes), [Wxnchen11](https://github.com/WxnChen11), and [alexdrouillard](https://github.com/alexdrouillard). 
 
 **Awarded 3rd Place Overall at Hack the Valley, Toronto 2016**
 
